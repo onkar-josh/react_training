@@ -1,0 +1,48 @@
+
+.OuterSquare{
+  border: 3px solid green;
+  text-align: center;
+  height: 100vh;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-gap: 10px;
+}
+.InnerSquare{
+    border: 3px solid rgb(0, 0, 0);
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.LoginName{
+    height: 30px;
+}
+.TopSquare{
+  top: 100px;
+  left: 290px;
+  height: 100px;
+  position: absolute;
+}
+/*body {
+    
+  border: 3px solid green;
+  text-align: center;
+  height: 100vh;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+  div {
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    height: 60%;
+    width: 80%;
+    background-color: red;
+    display: flex;
+    align-items: bottom;
+    }
+*/
