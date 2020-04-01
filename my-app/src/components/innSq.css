@@ -1,0 +1,11 @@
+.Innclass {
+    
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    height: 50%;
+    width: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
