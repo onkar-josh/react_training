@@ -5,7 +5,7 @@ import { Badge } from 'reactstrap';
 const LoginName = () => {
   return (
 <h1 className="LoginName">
-<Badge color="secondary">Login Form</Badge>
+<Badge color="secondary">Testing Website</Badge>
 
 </h1>
   )

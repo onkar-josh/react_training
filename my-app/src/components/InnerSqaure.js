@@ -4,9 +4,9 @@ import ValidationForm from './ValidationForm';
 
 
 const InnerSqaure = () => {
+
     return(
-        <center>
-            
+        <center> 
         <div className="InnerSquare">
         <form>
         <ValidationForm/>
